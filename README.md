@@ -75,7 +75,8 @@ Meu objetivo é **elevar a barra de qualidade** com processos claros, rastreabil
 
 ## 🤝 Vamos conversar?
 - **LinkedIn:** https://www.linkedin.com/in/taynakihara/  
-- **E-mail:** taynakihara1990@gmail.com  
+- **E-mail:** taynakihara1990@gmail.com
+- **Instagram:** @taynakihara
 - **Interesses:** QA estratégico, automação pragmática, dados de qualidade, melhoria contínua, IA aplicada ao QA.
 
 > Se quiser trocar ideias ou colaborar em algo, me chama! 🚀
