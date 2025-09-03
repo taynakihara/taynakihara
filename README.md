@@ -73,7 +73,7 @@ Meu objetivo é **elevar a barra de qualidade** com processos claros, rastreabil
 
 ---
 
-## 🤝 Vamos conversar?
+## 🤝 Bóra conversar?
 - **LinkedIn:** https://www.linkedin.com/in/taynakihara/  
 - **E-mail:** taynakihara1990@gmail.com
 - **Instagram:** @taynakihara
